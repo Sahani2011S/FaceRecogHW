@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(180deg, rgb(120, 120, 246), rgb(215, 113, 203), pink);
+}
+#img_recog{
+    font-size: 30px;
+    width: 70%;
+}
+#b {
+    color: rgb(44, 40, 40);
+}
+label {
+    font-size: 21px;
+}
